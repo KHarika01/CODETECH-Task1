@@ -1,1 +1,3 @@
-# CODETECH-Task1
+# CODETECH-Task1\
+Name:K Harika
+Company:CODETECH IT SOLUTIONS
